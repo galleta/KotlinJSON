@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejemplo JSON Kotlin</string>
+
+    // Errores de la aplicación
+    <string name="textoErrorImposibleConectar">Imposible conectar con el servidor.</string>
+    <string name="textoErrorDatosIncorrectos">Error, datos incorrectos.</string>
+    <string name="textoErrorObtenerDatosServidor">Error obteniendo los datos del servidor.</string>
+
+    // Textos de la actividad principal
+    <string name="textoDNI">DNI:</string>
+    <string name="textoNombre">Nombre:</string>
+    <string name="textoApellidos">Apellidos:</string>
+    <string name="textoTelefono">Teléfono:</string>
+    <string name="textoEmail">Email:</string>
+</resources>
